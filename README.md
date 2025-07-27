@@ -25,7 +25,7 @@ A modern, user-friendly Gradio interface for creating consistent character image
 1. **Clone or download** this repository
 2. **Navigate to the app directory**:
    ```bash
-   cd app
+   cd Imagen-Character-Variation
    ```
 
 3. **Install dependencies**:
