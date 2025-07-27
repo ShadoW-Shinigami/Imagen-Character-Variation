@@ -1,0 +1,7 @@
+gradio>=4.0.0
+fal-client
+requests
+pillow
+matplotlib
+pathlib
+python-dotenv
